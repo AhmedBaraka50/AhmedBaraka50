@@ -1,6 +1,4 @@
--  Hi, I’m @AhmedBaraka50
--  I’m interested in programming in c/c++ 
--  I’m currently studying electronics and communication engineering 
--  I’m looking to collaborate on any projects in c/c++ 
+I am a motivated Digital IC Design Engineer with interests in the field of Digital IC Design and Computer Architecture.
+My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, Logic Synthesis, and Digital Verification.
 
 
